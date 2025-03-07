@@ -1,2 +1,2 @@
-127.0.0.1 media-cdn.costco.com
-127.0.0.1 costco.com
+0.0.0.0 media-cdn.costco.com
+0.0.0.0 costco.com
