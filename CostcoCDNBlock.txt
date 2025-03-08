@@ -1,2 +1,6 @@
 0.0.0.0 media-cdn.costco.com
 0.0.0.0 costco.com
+0.0.0.0 azure-na-cdn.contentstack.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 transcend-cdn.com
+0.0.0.0 media-cdn.costco.com
